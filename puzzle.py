@@ -340,10 +340,10 @@ class Puzzle:
 
 
 # START GAME
-size = input("Enter puzzle size: [default 4]").strip()
+size = input("Enter puzzle size [default 4] : ").strip()
 
 while not size.isnumeric() and size != '': 
-    size = input("Please enter a number for puzzle size : [default 4]")
+    size = input("Please enter a number for puzzle size [default 4] : ")
 
 # set default if entered size is nothing
 size = 4 if size == '' else int(size) 
