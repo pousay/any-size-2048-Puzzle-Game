@@ -12,5 +12,4 @@ Although there might be an optimal strategy to play, there is always some level 
  3. terminal $: `python puzzle.py` <br>
 
  # Screenshot
-![Enter puzzle size:](../media/images/1.png?raw=true) <br>
-![puzzle game:](../media/images/2.png?raw=true)<br>
+![Enter puzzle size:](../assets/screenshot.jpg?raw=true) <br>
